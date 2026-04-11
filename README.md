@@ -81,6 +81,7 @@ _Open to conversations about:_
 [![Profile Views](https://komarev.com/ghpvc/?username=osvaldocasseba&style=for-the-badge&color=blueviolet&label=VISTAS+AO+PERFIL)](https://github.com/osvaldocasseba)
 
 </div>
+</div align="center">
 
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=40&lines=console.log("É+um+defeito+ser+perfeito")>)](https://git.io/typing-svg)
 
