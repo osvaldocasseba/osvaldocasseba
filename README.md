@@ -61,6 +61,7 @@
 ## Contact me
 
 <div>
+
 _Open to conversations about:_
 
 - **Co‑founding — if you have a vision and need a technical partner;**
