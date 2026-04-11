@@ -6,15 +6,15 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=osvaldocasseba&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=18181b&title_color=ffffff&text_color=ffffff&icon_color=a78bfa&ring_color=a78bfa"/>
+<!-- <img height="175em" src="https://github-readme-stats.vercel.app/api?username=osvaldocasseba&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=18181b&title_color=ffffff&text_color=ffffff&icon_color=a78bfa&ring_color=a78bfa"/> -->
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldocasseba&layout=donut&hide_border=true&bg_color=18181b&title_color=ffffff&text_color=ffffff"/>
+<!-- <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldocasseba&layout=donut&hide_border=true&bg_color=18181b&title_color=ffffff&text_color=ffffff"/> -->
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=osvaldocasseba&hide_border=true&background=18181b&ring=a78bfa&fire=a78bfa&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=osvaldocasseba&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=osvaldocasseba&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 </div>
 
@@ -60,8 +60,7 @@
 
 ## Contact me
 
-<div align="">
-
+<div>
 _Open to conversations about:_
 
 - **Co‑founding — if you have a vision and need a technical partner;**
@@ -72,17 +71,20 @@ _Open to conversations about:_
 - **Backend development needs where scalability is a priority.**
 
 </br>
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osvaldo-casseba-894497360)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osvaldo.casseba@gmail.com)
-</br>
+
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=osvaldocasseba&style=for-the-badge&color=blueviolet&label=VISTAS+AO+PERFIL)](https://github.com/osvaldocasseba)
 
 </div>
-</div align="center">
 
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=40&lines=console.log("É+um+defeito+ser+perfeito")>)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=40&lines=console.log("É um defeito ser perfeito.")>)](https://git.io/typing-svg)
 
 </div>
