@@ -13,6 +13,7 @@
 <br/>
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=osvaldocasseba&hide_border=true&background=18181b&ring=a78bfa&fire=a78bfa&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)-->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osvaldocasseba&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=osvaldocasseba&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
