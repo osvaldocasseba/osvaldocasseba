@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Developer;System+Architect;Builder+Of+Real+Impact;)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Developer;System+Architect;Builder+Of+Real+Impact;)](https://git.io/typing-svg) 
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=osvaldocasseba&hide_border=true&background=18181b&ring=a78bfa&fire=a78bfa&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=osvaldocasseba&hide_border=true&background=18181b&ring=a78bfa&fire=a78bfa&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats) -->
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=osvaldocasseba&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
