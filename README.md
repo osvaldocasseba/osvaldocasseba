@@ -5,25 +5,14 @@
 </div>
 
 <div align="center">
-
-<!-- <img height="175em" src="https://github-readme-stats.vercel.app/api?username=osvaldocasseba&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=18181b&title_color=ffffff&text_color=ffffff&icon_color=a78bfa&ring_color=a78bfa"/> -->
-
-<!-- <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldocasseba&layout=donut&hide_border=true&bg_color=18181b&title_color=ffffff&text_color=ffffff"/> -->
-
 <br/>
-
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=osvaldocasseba&hide_border=true&background=18181b&ring=a78bfa&fire=a78bfa&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats) -->
-
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=osvaldocasseba&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
-
 </div>
 
 ## Stack
 
 <div align="center">
 
-**Linguagens**
+**Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
