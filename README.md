@@ -65,7 +65,7 @@ _Open to conversations about:_
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osvaldo-casseba-894497360)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osvaldo.casseba@gmail.com)
 
-<center>https://osvaldocasseba.vercel.app/</center>
+<center>https://osvaldocasseba.vercel.app/</center> </br>
 
 <br/>
 
